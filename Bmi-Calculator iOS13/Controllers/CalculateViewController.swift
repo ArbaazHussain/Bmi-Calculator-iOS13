@@ -5,23 +5,13 @@
 //  Created by Apple on 18/04/21.
 //
 
+
+
 import UIKit
 
 
 
 class CalculateViewController: UIViewController {
-
-    
-    
-  var calculatorBrain = CalculatorBrain()
-    
-    
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
-
 
     
     
@@ -32,6 +22,21 @@ class CalculateViewController: UIViewController {
     @IBOutlet weak var weightSlider: UISlider!
     
     
+    
+    
+    
+    var calculatorBrain = CalculatorBrain()
+    
+    
+    
+    
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
     
     
     

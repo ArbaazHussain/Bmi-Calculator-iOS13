@@ -6,6 +6,7 @@
 //
 
 
+
 import UIKit
 
 
@@ -15,8 +16,6 @@ struct CalculatorBrain {
     
     
     var bmi: BMI?
-    
-    
     
     
     
@@ -60,12 +59,6 @@ struct CalculatorBrain {
     
     
    
-    
-    
-    
-    
-    
-    
     
 }
 
